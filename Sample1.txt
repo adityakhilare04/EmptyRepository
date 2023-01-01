@@ -1,0 +1,1 @@
+This is text from Sample1.txt.
